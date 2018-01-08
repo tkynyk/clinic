@@ -57,7 +57,8 @@ a:focus {outline:none;}
 ========================================= */
 body {
 	color:#555;
-	font-size: 14px;
+    font-size: 14px;
+    font-family:'Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3', Meiryo, メイリオ, Osaka, 'MS PGothic', arial, helvetica, sans-serif;
 	line-height: 1;
 	font-family: "メイリオ", Meiryo;
 	background-color: #fff;
